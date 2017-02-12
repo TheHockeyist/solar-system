@@ -36,9 +36,9 @@ import turtle
 # Uranus: 50
 # Neptune: 60
 
-myTurtle = turtle.Turtle(shape="turtle")
+my_turtle = turtle.Turtle(shape="turtle")
 
-myTurtle.setposition(0, 0)
-myTurtle.pendown()
-myTurtle.circle(10)
-myTurtle.penup()
+my_turtle.setposition(0, 0)
+my_turtle.pendown()
+my_turtle.circle(10)
+my_turtle.penup()
