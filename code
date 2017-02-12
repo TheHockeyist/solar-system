@@ -35,3 +35,10 @@ import turtle
 # Saturn: 40
 # Uranus: 50
 # Neptune: 60
+
+myTurtle = turtle.Turtle(shape="turtle")
+
+myTurtle.setposition(0, 0)
+myTurtle.pendown()
+myTurtle.circle(10)
+myTurtle.penup()
