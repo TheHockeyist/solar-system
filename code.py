@@ -40,7 +40,7 @@ my_turtle = turtle.Turtle(shape="turtle")
 
 my_turtle.setposition(0, 0)
 my_turtle.pendown()
-turtle.color('red', 'yellow')
+turtle.color('#fee6c8', '#fee6c8')
 turtle.begin_fill()
 turtle.circle(10)
 turtle.end_fill()
