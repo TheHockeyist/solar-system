@@ -45,3 +45,11 @@ turtle.begin_fill()
 turtle.circle(10)
 turtle.end_fill()
 my_turtle.penup()
+
+my_turtle.setposition(8, 0) # Will need to change later as it is orbiting.
+my_turtle.pendown()
+turtle.color('#aaaaaa', '#aaaaaa')
+turtle.begin_fill()
+turtle.circle(2)
+turtle.end_fill()
+my_turtle.penup()
