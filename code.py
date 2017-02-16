@@ -46,7 +46,7 @@ turtle.circle(10)
 turtle.end_fill()
 my_turtle.penup()
 
-my_turtle.setposition(8, 0) # Will need to change later as it is orbiting.
+my_turtle.setposition(8, 0) # Will need to change later as it is orbiting. A function of sine and cosine, perhaps?
 my_turtle.pendown()
 turtle.color('#aaaaaa', '#aaaaaa')
 turtle.begin_fill()
