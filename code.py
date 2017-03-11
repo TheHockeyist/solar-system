@@ -5,15 +5,15 @@ import turtle
 # colors of planets
 # Sun: 255, 230, 200
 # Mercury: 170, 170, 170
-# Venus: 230, 210, 180
+# Venus: 220, 220, 210
 # Earth: 0, 50, 100
 # Earth Land: 80, 120, 80
-# Mars: 200, 100, 80
-# Jupiter: 230, 200, 160
-# Jupiter’s Spot: 230, 170, 140
-# Saturn: 240, 220, 170
-# Uranus: 80, 220, 240
-# Neptune: 140, 210, 240
+# Mars: 180, 60, 20
+# Jupiter: 230, 180, 130
+# Jupiter’s Spot: 230, 110, 10
+# Saturn: 250, 220, 180
+# Uranus: 80, 220, 230
+# Neptune: 150, 210, 240
 
 # sizes of planets
 # Sun: 10
